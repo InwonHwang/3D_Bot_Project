@@ -1,0 +1,4427 @@
+{
+	"ListOfBoxData": 
+		[
+			{
+				"Name": "box_start",
+				"Position": {
+					"x": 3.25,
+					"y": 0,
+					"z": -5.25
+				},
+				"Quaternion": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				},
+				"Start": true,
+				"Traversable": true,
+				"Contaminated": false,
+				"WarpId": null,
+				"CountOfUpper": 0,
+				
+				"\u003CName>k__BackingField": "box_start",
+				
+				"\u003CPosition>k__BackingField": {
+					"x": 3.25,
+					"y": 0,
+					"z": -5.25
+				},
+				
+				"\u003CQuaternion>k__BackingField": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				},
+				
+				"\u003CStart>k__BackingField": true,
+				
+				"\u003CTraversable>k__BackingField": true,
+				
+				"\u003CContaminated>k__BackingField": false,
+				
+				"\u003CWarpId>k__BackingField": null,
+				
+				"\u003CCountOfUpper>k__BackingField": 0
+			},
+			{
+				"Name": "box_basic",
+				"Position": {
+					"x": 3.25,
+					"y": 0,
+					"z": -5
+				},
+				"Quaternion": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				},
+				"Start": false,
+				"Traversable": true,
+				"Contaminated": false,
+				"WarpId": null,
+				"CountOfUpper": 0,
+				
+				"\u003CName>k__BackingField": "box_basic",
+				
+				"\u003CPosition>k__BackingField": {
+					"x": 3.25,
+					"y": 0,
+					"z": -5
+				},
+				
+				"\u003CQuaternion>k__BackingField": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				},
+				
+				"\u003CStart>k__BackingField": false,
+				
+				"\u003CTraversable>k__BackingField": true,
+				
+				"\u003CContaminated>k__BackingField": false,
+				
+				"\u003CWarpId>k__BackingField": null,
+				
+				"\u003CCountOfUpper>k__BackingField": 0
+			},
+			{
+				"Name": "box_basic",
+				"Position": {
+					"x": 3.25,
+					"y": 0,
+					"z": -4.75
+				},
+				"Quaternion": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				},
+				"Start": false,
+				"Traversable": true,
+				"Contaminated": false,
+				"WarpId": null,
+				"CountOfUpper": 0,
+				
+				"\u003CName>k__BackingField": "box_basic",
+				
+				"\u003CPosition>k__BackingField": {
+					"x": 3.25,
+					"y": 0,
+					"z": -4.75
+				},
+				
+				"\u003CQuaternion>k__BackingField": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				},
+				
+				"\u003CStart>k__BackingField": false,
+				
+				"\u003CTraversable>k__BackingField": true,
+				
+				"\u003CContaminated>k__BackingField": false,
+				
+				"\u003CWarpId>k__BackingField": null,
+				
+				"\u003CCountOfUpper>k__BackingField": 0
+			},
+			{
+				"Name": "box_basic",
+				"Position": {
+					"x": 3.25,
+					"y": 0,
+					"z": -4.5
+				},
+				"Quaternion": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				},
+				"Start": false,
+				"Traversable": true,
+				"Contaminated": false,
+				"WarpId": null,
+				"CountOfUpper": 0,
+				
+				"\u003CName>k__BackingField": "box_basic",
+				
+				"\u003CPosition>k__BackingField": {
+					"x": 3.25,
+					"y": 0,
+					"z": -4.5
+				},
+				
+				"\u003CQuaternion>k__BackingField": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				},
+				
+				"\u003CStart>k__BackingField": false,
+				
+				"\u003CTraversable>k__BackingField": true,
+				
+				"\u003CContaminated>k__BackingField": false,
+				
+				"\u003CWarpId>k__BackingField": null,
+				
+				"\u003CCountOfUpper>k__BackingField": 0
+			},
+			{
+				"Name": "box_pollution",
+				"Position": {
+					"x": 3.25,
+					"y": 0,
+					"z": -4.25
+				},
+				"Quaternion": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				},
+				"Start": false,
+				"Traversable": true,
+				"Contaminated": true,
+				"WarpId": null,
+				"CountOfUpper": 0,
+				
+				"\u003CName>k__BackingField": "box_pollution",
+				
+				"\u003CPosition>k__BackingField": {
+					"x": 3.25,
+					"y": 0,
+					"z": -4.25
+				},
+				
+				"\u003CQuaternion>k__BackingField": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				},
+				
+				"\u003CStart>k__BackingField": false,
+				
+				"\u003CTraversable>k__BackingField": true,
+				
+				"\u003CContaminated>k__BackingField": true,
+				
+				"\u003CWarpId>k__BackingField": null,
+				
+				"\u003CCountOfUpper>k__BackingField": 0
+			}
+		],
+	"ListOfObjectData": 
+		[
+			{
+				"Name": "object_Desert_Star",
+				"Position": {
+					"x": -0.5,
+					"y": 0,
+					"z": 0.5
+				},
+				"Quaternion": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				},
+				
+				"\u003CName>k__BackingField": "object_Desert_Star",
+				
+				"\u003CPosition>k__BackingField": {
+					"x": -0.5,
+					"y": 0,
+					"z": 0.5
+				},
+				
+				"\u003CQuaternion>k__BackingField": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				}
+			},
+			{
+				"Name": "object_Desert_Star",
+				"Position": {
+					"x": 0.75,
+					"y": 0,
+					"z": 0.5
+				},
+				"Quaternion": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				},
+				
+				"\u003CName>k__BackingField": "object_Desert_Star",
+				
+				"\u003CPosition>k__BackingField": {
+					"x": 0.75,
+					"y": 0,
+					"z": 0.5
+				},
+				
+				"\u003CQuaternion>k__BackingField": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				}
+			},
+			{
+				"Name": "object_Desert_Star",
+				"Position": {
+					"x": 0.75,
+					"y": 0,
+					"z": -0.75
+				},
+				"Quaternion": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				},
+				
+				"\u003CName>k__BackingField": "object_Desert_Star",
+				
+				"\u003CPosition>k__BackingField": {
+					"x": 0.75,
+					"y": 0,
+					"z": -0.75
+				},
+				
+				"\u003CQuaternion>k__BackingField": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				}
+			},
+			{
+				"Name": "object_Desert_Star",
+				"Position": {
+					"x": -0.5,
+					"y": 0,
+					"z": -0.75
+				},
+				"Quaternion": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				},
+				
+				"\u003CName>k__BackingField": "object_Desert_Star",
+				
+				"\u003CPosition>k__BackingField": {
+					"x": -0.5,
+					"y": 0,
+					"z": -0.75
+				},
+				
+				"\u003CQuaternion>k__BackingField": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				}
+			},
+			{
+				"Name": "object_Desert_Star",
+				"Position": {
+					"x": -0.5,
+					"y": 0,
+					"z": -2
+				},
+				"Quaternion": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				},
+				
+				"\u003CName>k__BackingField": "object_Desert_Star",
+				
+				"\u003CPosition>k__BackingField": {
+					"x": -0.5,
+					"y": 0,
+					"z": -2
+				},
+				
+				"\u003CQuaternion>k__BackingField": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				}
+			},
+			{
+				"Name": "object_Desert_Star",
+				"Position": {
+					"x": 0.75,
+					"y": 0,
+					"z": -2
+				},
+				"Quaternion": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				},
+				
+				"\u003CName>k__BackingField": "object_Desert_Star",
+				
+				"\u003CPosition>k__BackingField": {
+					"x": 0.75,
+					"y": 0,
+					"z": -2
+				},
+				
+				"\u003CQuaternion>k__BackingField": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				}
+			},
+			{
+				"Name": "object_Desert_Star",
+				"Position": {
+					"x": 2,
+					"y": 0,
+					"z": -2
+				},
+				"Quaternion": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				},
+				
+				"\u003CName>k__BackingField": "object_Desert_Star",
+				
+				"\u003CPosition>k__BackingField": {
+					"x": 2,
+					"y": 0,
+					"z": -2
+				},
+				
+				"\u003CQuaternion>k__BackingField": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				}
+			},
+			{
+				"Name": "object_Desert_Star",
+				"Position": {
+					"x": 2,
+					"y": 0,
+					"z": -0.75
+				},
+				"Quaternion": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				},
+				
+				"\u003CName>k__BackingField": "object_Desert_Star",
+				
+				"\u003CPosition>k__BackingField": {
+					"x": 2,
+					"y": 0,
+					"z": -0.75
+				},
+				
+				"\u003CQuaternion>k__BackingField": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				}
+			},
+			{
+				"Name": "object_Desert_Star",
+				"Position": {
+					"x": 2,
+					"y": 0,
+					"z": 0.5
+				},
+				"Quaternion": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				},
+				
+				"\u003CName>k__BackingField": "object_Desert_Star",
+				
+				"\u003CPosition>k__BackingField": {
+					"x": 2,
+					"y": 0,
+					"z": 0.5
+				},
+				
+				"\u003CQuaternion>k__BackingField": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				}
+			},
+			{
+				"Name": "object_Desert_Star",
+				"Position": {
+					"x": 3.25,
+					"y": 0,
+					"z": 0.5
+				},
+				"Quaternion": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				},
+				
+				"\u003CName>k__BackingField": "object_Desert_Star",
+				
+				"\u003CPosition>k__BackingField": {
+					"x": 3.25,
+					"y": 0,
+					"z": 0.5
+				},
+				
+				"\u003CQuaternion>k__BackingField": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				}
+			},
+			{
+				"Name": "object_Desert_Star",
+				"Position": {
+					"x": 3.25,
+					"y": 0,
+					"z": -0.75
+				},
+				"Quaternion": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				},
+				
+				"\u003CName>k__BackingField": "object_Desert_Star",
+				
+				"\u003CPosition>k__BackingField": {
+					"x": 3.25,
+					"y": 0,
+					"z": -0.75
+				},
+				
+				"\u003CQuaternion>k__BackingField": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				}
+			},
+			{
+				"Name": "object_Desert_Star",
+				"Position": {
+					"x": 3.25,
+					"y": 0,
+					"z": -2
+				},
+				"Quaternion": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				},
+				
+				"\u003CName>k__BackingField": "object_Desert_Star",
+				
+				"\u003CPosition>k__BackingField": {
+					"x": 3.25,
+					"y": 0,
+					"z": -2
+				},
+				
+				"\u003CQuaternion>k__BackingField": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				}
+			},
+			{
+				"Name": "object_Desert_Star",
+				"Position": {
+					"x": 3.25,
+					"y": 0,
+					"z": -3.25
+				},
+				"Quaternion": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				},
+				
+				"\u003CName>k__BackingField": "object_Desert_Star",
+				
+				"\u003CPosition>k__BackingField": {
+					"x": 3.25,
+					"y": 0,
+					"z": -3.25
+				},
+				
+				"\u003CQuaternion>k__BackingField": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				}
+			},
+			{
+				"Name": "object_Desert_Star",
+				"Position": {
+					"x": -0.5,
+					"y": 0,
+					"z": -3.25
+				},
+				"Quaternion": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				},
+				
+				"\u003CName>k__BackingField": "object_Desert_Star",
+				
+				"\u003CPosition>k__BackingField": {
+					"x": -0.5,
+					"y": 0,
+					"z": -3.25
+				},
+				
+				"\u003CQuaternion>k__BackingField": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				}
+			},
+			{
+				"Name": "object_Desert_Star",
+				"Position": {
+					"x": 0.75,
+					"y": 0,
+					"z": -3.25
+				},
+				"Quaternion": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				},
+				
+				"\u003CName>k__BackingField": "object_Desert_Star",
+				
+				"\u003CPosition>k__BackingField": {
+					"x": 0.75,
+					"y": 0,
+					"z": -3.25
+				},
+				
+				"\u003CQuaternion>k__BackingField": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				}
+			},
+			{
+				"Name": "object_Desert_Star",
+				"Position": {
+					"x": 2,
+					"y": 0,
+					"z": -3.25
+				},
+				"Quaternion": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				},
+				
+				"\u003CName>k__BackingField": "object_Desert_Star",
+				
+				"\u003CPosition>k__BackingField": {
+					"x": 2,
+					"y": 0,
+					"z": -3.25
+				},
+				
+				"\u003CQuaternion>k__BackingField": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				}
+			},
+			{
+				"Name": "object_Desert_Star",
+				"Position": {
+					"x": 3.25,
+					"y": 0,
+					"z": -4.5
+				},
+				"Quaternion": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				},
+				
+				"\u003CName>k__BackingField": "object_Desert_Star",
+				
+				"\u003CPosition>k__BackingField": {
+					"x": 3.25,
+					"y": 0,
+					"z": -4.5
+				},
+				
+				"\u003CQuaternion>k__BackingField": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				}
+			},
+			{
+				"Name": "object_Desert_Star",
+				"Position": {
+					"x": 2,
+					"y": 0,
+					"z": -4.5
+				},
+				"Quaternion": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				},
+				
+				"\u003CName>k__BackingField": "object_Desert_Star",
+				
+				"\u003CPosition>k__BackingField": {
+					"x": 2,
+					"y": 0,
+					"z": -4.5
+				},
+				
+				"\u003CQuaternion>k__BackingField": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				}
+			},
+			{
+				"Name": "object_Desert_Star",
+				"Position": {
+					"x": 0.75,
+					"y": 0,
+					"z": -4.5
+				},
+				"Quaternion": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				},
+				
+				"\u003CName>k__BackingField": "object_Desert_Star",
+				
+				"\u003CPosition>k__BackingField": {
+					"x": 0.75,
+					"y": 0,
+					"z": -4.5
+				},
+				
+				"\u003CQuaternion>k__BackingField": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				}
+			},
+			{
+				"Name": "object_Desert_Star",
+				"Position": {
+					"x": -0.5,
+					"y": 0,
+					"z": -4.5
+				},
+				"Quaternion": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				},
+				
+				"\u003CName>k__BackingField": "object_Desert_Star",
+				
+				"\u003CPosition>k__BackingField": {
+					"x": -0.5,
+					"y": 0,
+					"z": -4.5
+				},
+				
+				"\u003CQuaternion>k__BackingField": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				}
+			},
+			{
+				"Name": "object_Desert_Star",
+				"Position": {
+					"x": 4.5,
+					"y": 0,
+					"z": -4.5
+				},
+				"Quaternion": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				},
+				
+				"\u003CName>k__BackingField": "object_Desert_Star",
+				
+				"\u003CPosition>k__BackingField": {
+					"x": 4.5,
+					"y": 0,
+					"z": -4.5
+				},
+				
+				"\u003CQuaternion>k__BackingField": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				}
+			},
+			{
+				"Name": "object_Desert_Star",
+				"Position": {
+					"x": 4.5,
+					"y": 0,
+					"z": -3.25
+				},
+				"Quaternion": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				},
+				
+				"\u003CName>k__BackingField": "object_Desert_Star",
+				
+				"\u003CPosition>k__BackingField": {
+					"x": 4.5,
+					"y": 0,
+					"z": -3.25
+				},
+				
+				"\u003CQuaternion>k__BackingField": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				}
+			},
+			{
+				"Name": "object_Desert_Star",
+				"Position": {
+					"x": 4.5,
+					"y": 0,
+					"z": -2
+				},
+				"Quaternion": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				},
+				
+				"\u003CName>k__BackingField": "object_Desert_Star",
+				
+				"\u003CPosition>k__BackingField": {
+					"x": 4.5,
+					"y": 0,
+					"z": -2
+				},
+				
+				"\u003CQuaternion>k__BackingField": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				}
+			},
+			{
+				"Name": "object_Desert_Star",
+				"Position": {
+					"x": 4.5,
+					"y": 0,
+					"z": -0.75
+				},
+				"Quaternion": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				},
+				
+				"\u003CName>k__BackingField": "object_Desert_Star",
+				
+				"\u003CPosition>k__BackingField": {
+					"x": 4.5,
+					"y": 0,
+					"z": -0.75
+				},
+				
+				"\u003CQuaternion>k__BackingField": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				}
+			},
+			{
+				"Name": "object_Desert_Star",
+				"Position": {
+					"x": 4.5,
+					"y": 0,
+					"z": 0.5
+				},
+				"Quaternion": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				},
+				
+				"\u003CName>k__BackingField": "object_Desert_Star",
+				
+				"\u003CPosition>k__BackingField": {
+					"x": 4.5,
+					"y": 0,
+					"z": 0.5
+				},
+				
+				"\u003CQuaternion>k__BackingField": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				}
+			},
+			{
+				"Name": "object_Desert_Star",
+				"Position": {
+					"x": 5.75,
+					"y": 0,
+					"z": 0.5
+				},
+				"Quaternion": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				},
+				
+				"\u003CName>k__BackingField": "object_Desert_Star",
+				
+				"\u003CPosition>k__BackingField": {
+					"x": 5.75,
+					"y": 0,
+					"z": 0.5
+				},
+				
+				"\u003CQuaternion>k__BackingField": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				}
+			},
+			{
+				"Name": "object_Desert_Star",
+				"Position": {
+					"x": 5.75,
+					"y": 0,
+					"z": -0.75
+				},
+				"Quaternion": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				},
+				
+				"\u003CName>k__BackingField": "object_Desert_Star",
+				
+				"\u003CPosition>k__BackingField": {
+					"x": 5.75,
+					"y": 0,
+					"z": -0.75
+				},
+				
+				"\u003CQuaternion>k__BackingField": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				}
+			},
+			{
+				"Name": "object_Desert_Star",
+				"Position": {
+					"x": 5.75,
+					"y": 0,
+					"z": -2
+				},
+				"Quaternion": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				},
+				
+				"\u003CName>k__BackingField": "object_Desert_Star",
+				
+				"\u003CPosition>k__BackingField": {
+					"x": 5.75,
+					"y": 0,
+					"z": -2
+				},
+				
+				"\u003CQuaternion>k__BackingField": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				}
+			},
+			{
+				"Name": "object_Desert_Star",
+				"Position": {
+					"x": 5.75,
+					"y": 0,
+					"z": -3.25
+				},
+				"Quaternion": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				},
+				
+				"\u003CName>k__BackingField": "object_Desert_Star",
+				
+				"\u003CPosition>k__BackingField": {
+					"x": 5.75,
+					"y": 0,
+					"z": -3.25
+				},
+				
+				"\u003CQuaternion>k__BackingField": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				}
+			},
+			{
+				"Name": "object_Desert_Star",
+				"Position": {
+					"x": 5.75,
+					"y": 0,
+					"z": -4.5
+				},
+				"Quaternion": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				},
+				
+				"\u003CName>k__BackingField": "object_Desert_Star",
+				
+				"\u003CPosition>k__BackingField": {
+					"x": 5.75,
+					"y": 0,
+					"z": -4.5
+				},
+				
+				"\u003CQuaternion>k__BackingField": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				}
+			},
+			{
+				"Name": "object_Desert_Star",
+				"Position": {
+					"x": 5.75,
+					"y": 0,
+					"z": -5.75
+				},
+				"Quaternion": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				},
+				
+				"\u003CName>k__BackingField": "object_Desert_Star",
+				
+				"\u003CPosition>k__BackingField": {
+					"x": 5.75,
+					"y": 0,
+					"z": -5.75
+				},
+				
+				"\u003CQuaternion>k__BackingField": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				}
+			},
+			{
+				"Name": "object_Desert_Star",
+				"Position": {
+					"x": 4.5,
+					"y": 0,
+					"z": -5.75
+				},
+				"Quaternion": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				},
+				
+				"\u003CName>k__BackingField": "object_Desert_Star",
+				
+				"\u003CPosition>k__BackingField": {
+					"x": 4.5,
+					"y": 0,
+					"z": -5.75
+				},
+				
+				"\u003CQuaternion>k__BackingField": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				}
+			},
+			{
+				"Name": "object_Desert_Star",
+				"Position": {
+					"x": 3.25,
+					"y": 0,
+					"z": -5.75
+				},
+				"Quaternion": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				},
+				
+				"\u003CName>k__BackingField": "object_Desert_Star",
+				
+				"\u003CPosition>k__BackingField": {
+					"x": 3.25,
+					"y": 0,
+					"z": -5.75
+				},
+				
+				"\u003CQuaternion>k__BackingField": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				}
+			},
+			{
+				"Name": "object_Desert_Star",
+				"Position": {
+					"x": 2,
+					"y": 0,
+					"z": -5.75
+				},
+				"Quaternion": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				},
+				
+				"\u003CName>k__BackingField": "object_Desert_Star",
+				
+				"\u003CPosition>k__BackingField": {
+					"x": 2,
+					"y": 0,
+					"z": -5.75
+				},
+				
+				"\u003CQuaternion>k__BackingField": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				}
+			},
+			{
+				"Name": "object_Desert_Star",
+				"Position": {
+					"x": 0.75,
+					"y": 0,
+					"z": -5.75
+				},
+				"Quaternion": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				},
+				
+				"\u003CName>k__BackingField": "object_Desert_Star",
+				
+				"\u003CPosition>k__BackingField": {
+					"x": 0.75,
+					"y": 0,
+					"z": -5.75
+				},
+				
+				"\u003CQuaternion>k__BackingField": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				}
+			},
+			{
+				"Name": "object_Desert_Star",
+				"Position": {
+					"x": -0.5,
+					"y": 0,
+					"z": -5.75
+				},
+				"Quaternion": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				},
+				
+				"\u003CName>k__BackingField": "object_Desert_Star",
+				
+				"\u003CPosition>k__BackingField": {
+					"x": -0.5,
+					"y": 0,
+					"z": -5.75
+				},
+				
+				"\u003CQuaternion>k__BackingField": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				}
+			},
+			{
+				"Name": "object_Desert_Star",
+				"Position": {
+					"x": 0.75,
+					"y": 0,
+					"z": -7
+				},
+				"Quaternion": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				},
+				
+				"\u003CName>k__BackingField": "object_Desert_Star",
+				
+				"\u003CPosition>k__BackingField": {
+					"x": 0.75,
+					"y": 0,
+					"z": -7
+				},
+				
+				"\u003CQuaternion>k__BackingField": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				}
+			},
+			{
+				"Name": "object_Desert_Star",
+				"Position": {
+					"x": 2,
+					"y": 0,
+					"z": -7
+				},
+				"Quaternion": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				},
+				
+				"\u003CName>k__BackingField": "object_Desert_Star",
+				
+				"\u003CPosition>k__BackingField": {
+					"x": 2,
+					"y": 0,
+					"z": -7
+				},
+				
+				"\u003CQuaternion>k__BackingField": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				}
+			},
+			{
+				"Name": "object_Desert_Star",
+				"Position": {
+					"x": 3.25,
+					"y": 0,
+					"z": -7
+				},
+				"Quaternion": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				},
+				
+				"\u003CName>k__BackingField": "object_Desert_Star",
+				
+				"\u003CPosition>k__BackingField": {
+					"x": 3.25,
+					"y": 0,
+					"z": -7
+				},
+				
+				"\u003CQuaternion>k__BackingField": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				}
+			},
+			{
+				"Name": "object_Desert_Star",
+				"Position": {
+					"x": 4.5,
+					"y": 0,
+					"z": -7
+				},
+				"Quaternion": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				},
+				
+				"\u003CName>k__BackingField": "object_Desert_Star",
+				
+				"\u003CPosition>k__BackingField": {
+					"x": 4.5,
+					"y": 0,
+					"z": -7
+				},
+				
+				"\u003CQuaternion>k__BackingField": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				}
+			},
+			{
+				"Name": "object_Desert_Star",
+				"Position": {
+					"x": 5.75,
+					"y": 0,
+					"z": -7
+				},
+				"Quaternion": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				},
+				
+				"\u003CName>k__BackingField": "object_Desert_Star",
+				
+				"\u003CPosition>k__BackingField": {
+					"x": 5.75,
+					"y": 0,
+					"z": -7
+				},
+				
+				"\u003CQuaternion>k__BackingField": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				}
+			},
+			{
+				"Name": "object_Desert_Star",
+				"Position": {
+					"x": 7,
+					"y": 0,
+					"z": -7
+				},
+				"Quaternion": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				},
+				
+				"\u003CName>k__BackingField": "object_Desert_Star",
+				
+				"\u003CPosition>k__BackingField": {
+					"x": 7,
+					"y": 0,
+					"z": -7
+				},
+				
+				"\u003CQuaternion>k__BackingField": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				}
+			},
+			{
+				"Name": "object_Desert_Star",
+				"Position": {
+					"x": 7,
+					"y": 0,
+					"z": -5.75
+				},
+				"Quaternion": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				},
+				
+				"\u003CName>k__BackingField": "object_Desert_Star",
+				
+				"\u003CPosition>k__BackingField": {
+					"x": 7,
+					"y": 0,
+					"z": -5.75
+				},
+				
+				"\u003CQuaternion>k__BackingField": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				}
+			},
+			{
+				"Name": "object_Desert_Star",
+				"Position": {
+					"x": 7,
+					"y": 0,
+					"z": -4.5
+				},
+				"Quaternion": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				},
+				
+				"\u003CName>k__BackingField": "object_Desert_Star",
+				
+				"\u003CPosition>k__BackingField": {
+					"x": 7,
+					"y": 0,
+					"z": -4.5
+				},
+				
+				"\u003CQuaternion>k__BackingField": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				}
+			},
+			{
+				"Name": "object_Desert_Star",
+				"Position": {
+					"x": 7,
+					"y": 0,
+					"z": -3.25
+				},
+				"Quaternion": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				},
+				
+				"\u003CName>k__BackingField": "object_Desert_Star",
+				
+				"\u003CPosition>k__BackingField": {
+					"x": 7,
+					"y": 0,
+					"z": -3.25
+				},
+				
+				"\u003CQuaternion>k__BackingField": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				}
+			},
+			{
+				"Name": "object_Desert_Star",
+				"Position": {
+					"x": 7,
+					"y": 0,
+					"z": -2
+				},
+				"Quaternion": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				},
+				
+				"\u003CName>k__BackingField": "object_Desert_Star",
+				
+				"\u003CPosition>k__BackingField": {
+					"x": 7,
+					"y": 0,
+					"z": -2
+				},
+				
+				"\u003CQuaternion>k__BackingField": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				}
+			},
+			{
+				"Name": "object_Desert_Star",
+				"Position": {
+					"x": 7,
+					"y": 0,
+					"z": -0.75
+				},
+				"Quaternion": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				},
+				
+				"\u003CName>k__BackingField": "object_Desert_Star",
+				
+				"\u003CPosition>k__BackingField": {
+					"x": 7,
+					"y": 0,
+					"z": -0.75
+				},
+				
+				"\u003CQuaternion>k__BackingField": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				}
+			},
+			{
+				"Name": "object_Desert_Star",
+				"Position": {
+					"x": 7,
+					"y": 0,
+					"z": 0.5
+				},
+				"Quaternion": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				},
+				
+				"\u003CName>k__BackingField": "object_Desert_Star",
+				
+				"\u003CPosition>k__BackingField": {
+					"x": 7,
+					"y": 0,
+					"z": 0.5
+				},
+				
+				"\u003CQuaternion>k__BackingField": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				}
+			},
+			{
+				"Name": "object_Desert_Star",
+				"Position": {
+					"x": 8.25,
+					"y": 0,
+					"z": 0.5
+				},
+				"Quaternion": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				},
+				
+				"\u003CName>k__BackingField": "object_Desert_Star",
+				
+				"\u003CPosition>k__BackingField": {
+					"x": 8.25,
+					"y": 0,
+					"z": 0.5
+				},
+				
+				"\u003CQuaternion>k__BackingField": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				}
+			},
+			{
+				"Name": "object_Desert_Star",
+				"Position": {
+					"x": 8.25,
+					"y": 0,
+					"z": -0.75
+				},
+				"Quaternion": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				},
+				
+				"\u003CName>k__BackingField": "object_Desert_Star",
+				
+				"\u003CPosition>k__BackingField": {
+					"x": 8.25,
+					"y": 0,
+					"z": -0.75
+				},
+				
+				"\u003CQuaternion>k__BackingField": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				}
+			},
+			{
+				"Name": "object_Desert_Star",
+				"Position": {
+					"x": 8.25,
+					"y": 0,
+					"z": -2
+				},
+				"Quaternion": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				},
+				
+				"\u003CName>k__BackingField": "object_Desert_Star",
+				
+				"\u003CPosition>k__BackingField": {
+					"x": 8.25,
+					"y": 0,
+					"z": -2
+				},
+				
+				"\u003CQuaternion>k__BackingField": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				}
+			},
+			{
+				"Name": "object_Desert_Star",
+				"Position": {
+					"x": 8.25,
+					"y": 0,
+					"z": -3.25
+				},
+				"Quaternion": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				},
+				
+				"\u003CName>k__BackingField": "object_Desert_Star",
+				
+				"\u003CPosition>k__BackingField": {
+					"x": 8.25,
+					"y": 0,
+					"z": -3.25
+				},
+				
+				"\u003CQuaternion>k__BackingField": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				}
+			},
+			{
+				"Name": "object_Desert_Star",
+				"Position": {
+					"x": 8.25,
+					"y": 0,
+					"z": -4.5
+				},
+				"Quaternion": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				},
+				
+				"\u003CName>k__BackingField": "object_Desert_Star",
+				
+				"\u003CPosition>k__BackingField": {
+					"x": 8.25,
+					"y": 0,
+					"z": -4.5
+				},
+				
+				"\u003CQuaternion>k__BackingField": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				}
+			},
+			{
+				"Name": "object_Desert_Star",
+				"Position": {
+					"x": 8.25,
+					"y": 0,
+					"z": -5.75
+				},
+				"Quaternion": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				},
+				
+				"\u003CName>k__BackingField": "object_Desert_Star",
+				
+				"\u003CPosition>k__BackingField": {
+					"x": 8.25,
+					"y": 0,
+					"z": -5.75
+				},
+				
+				"\u003CQuaternion>k__BackingField": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				}
+			},
+			{
+				"Name": "object_Desert_Star",
+				"Position": {
+					"x": 8.25,
+					"y": 0,
+					"z": -7
+				},
+				"Quaternion": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				},
+				
+				"\u003CName>k__BackingField": "object_Desert_Star",
+				
+				"\u003CPosition>k__BackingField": {
+					"x": 8.25,
+					"y": 0,
+					"z": -7
+				},
+				
+				"\u003CQuaternion>k__BackingField": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				}
+			},
+			{
+				"Name": "object_Desert_Star",
+				"Position": {
+					"x": -0.5,
+					"y": 0,
+					"z": -7
+				},
+				"Quaternion": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				},
+				
+				"\u003CName>k__BackingField": "object_Desert_Star",
+				
+				"\u003CPosition>k__BackingField": {
+					"x": -0.5,
+					"y": 0,
+					"z": -7
+				},
+				
+				"\u003CQuaternion>k__BackingField": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				}
+			},
+			{
+				"Name": "object_Desert_Star",
+				"Position": {
+					"x": -0.5,
+					"y": 0,
+					"z": -8.25
+				},
+				"Quaternion": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				},
+				
+				"\u003CName>k__BackingField": "object_Desert_Star",
+				
+				"\u003CPosition>k__BackingField": {
+					"x": -0.5,
+					"y": 0,
+					"z": -8.25
+				},
+				
+				"\u003CQuaternion>k__BackingField": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				}
+			},
+			{
+				"Name": "object_Desert_Star",
+				"Position": {
+					"x": 0.75,
+					"y": 0,
+					"z": -8.25
+				},
+				"Quaternion": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				},
+				
+				"\u003CName>k__BackingField": "object_Desert_Star",
+				
+				"\u003CPosition>k__BackingField": {
+					"x": 0.75,
+					"y": 0,
+					"z": -8.25
+				},
+				
+				"\u003CQuaternion>k__BackingField": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				}
+			},
+			{
+				"Name": "object_Desert_Star",
+				"Position": {
+					"x": 2,
+					"y": 0,
+					"z": -8.25
+				},
+				"Quaternion": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				},
+				
+				"\u003CName>k__BackingField": "object_Desert_Star",
+				
+				"\u003CPosition>k__BackingField": {
+					"x": 2,
+					"y": 0,
+					"z": -8.25
+				},
+				
+				"\u003CQuaternion>k__BackingField": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				}
+			},
+			{
+				"Name": "object_Desert_Star",
+				"Position": {
+					"x": 3.25,
+					"y": 0,
+					"z": -8.25
+				},
+				"Quaternion": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				},
+				
+				"\u003CName>k__BackingField": "object_Desert_Star",
+				
+				"\u003CPosition>k__BackingField": {
+					"x": 3.25,
+					"y": 0,
+					"z": -8.25
+				},
+				
+				"\u003CQuaternion>k__BackingField": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				}
+			},
+			{
+				"Name": "object_Desert_Star",
+				"Position": {
+					"x": 4.5,
+					"y": 0,
+					"z": -8.25
+				},
+				"Quaternion": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				},
+				
+				"\u003CName>k__BackingField": "object_Desert_Star",
+				
+				"\u003CPosition>k__BackingField": {
+					"x": 4.5,
+					"y": 0,
+					"z": -8.25
+				},
+				
+				"\u003CQuaternion>k__BackingField": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				}
+			},
+			{
+				"Name": "object_Desert_Star",
+				"Position": {
+					"x": 5.75,
+					"y": 0,
+					"z": -8.25
+				},
+				"Quaternion": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				},
+				
+				"\u003CName>k__BackingField": "object_Desert_Star",
+				
+				"\u003CPosition>k__BackingField": {
+					"x": 5.75,
+					"y": 0,
+					"z": -8.25
+				},
+				
+				"\u003CQuaternion>k__BackingField": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				}
+			},
+			{
+				"Name": "object_Desert_Star",
+				"Position": {
+					"x": 7,
+					"y": 0,
+					"z": -8.25
+				},
+				"Quaternion": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				},
+				
+				"\u003CName>k__BackingField": "object_Desert_Star",
+				
+				"\u003CPosition>k__BackingField": {
+					"x": 7,
+					"y": 0,
+					"z": -8.25
+				},
+				
+				"\u003CQuaternion>k__BackingField": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				}
+			},
+			{
+				"Name": "object_Desert_Star",
+				"Position": {
+					"x": 8.25,
+					"y": 0,
+					"z": -8.25
+				},
+				"Quaternion": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				},
+				
+				"\u003CName>k__BackingField": "object_Desert_Star",
+				
+				"\u003CPosition>k__BackingField": {
+					"x": 8.25,
+					"y": 0,
+					"z": -8.25
+				},
+				
+				"\u003CQuaternion>k__BackingField": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				}
+			},
+			{
+				"Name": "object_Desert_Pollution_L_Pipe01",
+				"Position": {
+					"x": 3.25,
+					"y": 0,
+					"z": -4
+				},
+				"Quaternion": {
+					"x": 0.7071068,
+					"y": 0.7071068,
+					"z": -3.09086232E-08,
+					"w": -3.09086232E-08
+				},
+				
+				"\u003CName>k__BackingField": "object_Desert_Pollution_L_Pipe01",
+				
+				"\u003CPosition>k__BackingField": {
+					"x": 3.25,
+					"y": 0,
+					"z": -4
+				},
+				
+				"\u003CQuaternion>k__BackingField": {
+					"x": 0.7071068,
+					"y": 0.7071068,
+					"z": -3.09086232E-08,
+					"w": -3.09086232E-08
+				}
+			},
+			{
+				"Name": "object_Desert_Pollution_Oasis",
+				"Position": {
+					"x": 3,
+					"y": 0,
+					"z": -3.25
+				},
+				"Quaternion": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				},
+				
+				"\u003CName>k__BackingField": "object_Desert_Pollution_Oasis",
+				
+				"\u003CPosition>k__BackingField": {
+					"x": 3,
+					"y": 0,
+					"z": -3.25
+				},
+				
+				"\u003CQuaternion>k__BackingField": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				}
+			},
+			{
+				"Name": "object_Desert_Monsterleg02",
+				"Position": {
+					"x": 4,
+					"y": 0,
+					"z": -5
+				},
+				"Quaternion": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				},
+				
+				"\u003CName>k__BackingField": "object_Desert_Monsterleg02",
+				
+				"\u003CPosition>k__BackingField": {
+					"x": 4,
+					"y": 0,
+					"z": -5
+				},
+				
+				"\u003CQuaternion>k__BackingField": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				}
+			},
+			{
+				"Name": "object_Desert_Monsterleg01",
+				"Position": {
+					"x": 2.5,
+					"y": 0,
+					"z": -5.25
+				},
+				"Quaternion": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				},
+				
+				"\u003CName>k__BackingField": "object_Desert_Monsterleg01",
+				
+				"\u003CPosition>k__BackingField": {
+					"x": 2.5,
+					"y": 0,
+					"z": -5.25
+				},
+				
+				"\u003CQuaternion>k__BackingField": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				}
+			}
+		],
+	"LimitedCount": 
+		[
+			2,
+			3,
+			0
+		],
+	"CameraPos": {
+		"x": 15.7038479,
+		"y": 17.1011372,
+		"z": -16.9815617
+	},
+	"CameraSize": 2,
+	
+	"\u003CListOfBoxData>k__BackingField": 
+		[
+			{
+				"Name": "box_start",
+				"Position": {
+					"x": 3.25,
+					"y": 0,
+					"z": -5.25
+				},
+				"Quaternion": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				},
+				"Start": true,
+				"Traversable": true,
+				"Contaminated": false,
+				"WarpId": null,
+				"CountOfUpper": 0,
+				
+				"\u003CName>k__BackingField": "box_start",
+				
+				"\u003CPosition>k__BackingField": {
+					"x": 3.25,
+					"y": 0,
+					"z": -5.25
+				},
+				
+				"\u003CQuaternion>k__BackingField": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				},
+				
+				"\u003CStart>k__BackingField": true,
+				
+				"\u003CTraversable>k__BackingField": true,
+				
+				"\u003CContaminated>k__BackingField": false,
+				
+				"\u003CWarpId>k__BackingField": null,
+				
+				"\u003CCountOfUpper>k__BackingField": 0
+			},
+			{
+				"Name": "box_basic",
+				"Position": {
+					"x": 3.25,
+					"y": 0,
+					"z": -5
+				},
+				"Quaternion": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				},
+				"Start": false,
+				"Traversable": true,
+				"Contaminated": false,
+				"WarpId": null,
+				"CountOfUpper": 0,
+				
+				"\u003CName>k__BackingField": "box_basic",
+				
+				"\u003CPosition>k__BackingField": {
+					"x": 3.25,
+					"y": 0,
+					"z": -5
+				},
+				
+				"\u003CQuaternion>k__BackingField": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				},
+				
+				"\u003CStart>k__BackingField": false,
+				
+				"\u003CTraversable>k__BackingField": true,
+				
+				"\u003CContaminated>k__BackingField": false,
+				
+				"\u003CWarpId>k__BackingField": null,
+				
+				"\u003CCountOfUpper>k__BackingField": 0
+			},
+			{
+				"Name": "box_basic",
+				"Position": {
+					"x": 3.25,
+					"y": 0,
+					"z": -4.75
+				},
+				"Quaternion": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				},
+				"Start": false,
+				"Traversable": true,
+				"Contaminated": false,
+				"WarpId": null,
+				"CountOfUpper": 0,
+				
+				"\u003CName>k__BackingField": "box_basic",
+				
+				"\u003CPosition>k__BackingField": {
+					"x": 3.25,
+					"y": 0,
+					"z": -4.75
+				},
+				
+				"\u003CQuaternion>k__BackingField": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				},
+				
+				"\u003CStart>k__BackingField": false,
+				
+				"\u003CTraversable>k__BackingField": true,
+				
+				"\u003CContaminated>k__BackingField": false,
+				
+				"\u003CWarpId>k__BackingField": null,
+				
+				"\u003CCountOfUpper>k__BackingField": 0
+			},
+			{
+				"Name": "box_basic",
+				"Position": {
+					"x": 3.25,
+					"y": 0,
+					"z": -4.5
+				},
+				"Quaternion": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				},
+				"Start": false,
+				"Traversable": true,
+				"Contaminated": false,
+				"WarpId": null,
+				"CountOfUpper": 0,
+				
+				"\u003CName>k__BackingField": "box_basic",
+				
+				"\u003CPosition>k__BackingField": {
+					"x": 3.25,
+					"y": 0,
+					"z": -4.5
+				},
+				
+				"\u003CQuaternion>k__BackingField": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				},
+				
+				"\u003CStart>k__BackingField": false,
+				
+				"\u003CTraversable>k__BackingField": true,
+				
+				"\u003CContaminated>k__BackingField": false,
+				
+				"\u003CWarpId>k__BackingField": null,
+				
+				"\u003CCountOfUpper>k__BackingField": 0
+			},
+			{
+				"Name": "box_pollution",
+				"Position": {
+					"x": 3.25,
+					"y": 0,
+					"z": -4.25
+				},
+				"Quaternion": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				},
+				"Start": false,
+				"Traversable": true,
+				"Contaminated": true,
+				"WarpId": null,
+				"CountOfUpper": 0,
+				
+				"\u003CName>k__BackingField": "box_pollution",
+				
+				"\u003CPosition>k__BackingField": {
+					"x": 3.25,
+					"y": 0,
+					"z": -4.25
+				},
+				
+				"\u003CQuaternion>k__BackingField": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				},
+				
+				"\u003CStart>k__BackingField": false,
+				
+				"\u003CTraversable>k__BackingField": true,
+				
+				"\u003CContaminated>k__BackingField": true,
+				
+				"\u003CWarpId>k__BackingField": null,
+				
+				"\u003CCountOfUpper>k__BackingField": 0
+			}
+		],
+	
+	"\u003CListOfObjectData>k__BackingField": 
+		[
+			{
+				"Name": "object_Desert_Star",
+				"Position": {
+					"x": -0.5,
+					"y": 0,
+					"z": 0.5
+				},
+				"Quaternion": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				},
+				
+				"\u003CName>k__BackingField": "object_Desert_Star",
+				
+				"\u003CPosition>k__BackingField": {
+					"x": -0.5,
+					"y": 0,
+					"z": 0.5
+				},
+				
+				"\u003CQuaternion>k__BackingField": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				}
+			},
+			{
+				"Name": "object_Desert_Star",
+				"Position": {
+					"x": 0.75,
+					"y": 0,
+					"z": 0.5
+				},
+				"Quaternion": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				},
+				
+				"\u003CName>k__BackingField": "object_Desert_Star",
+				
+				"\u003CPosition>k__BackingField": {
+					"x": 0.75,
+					"y": 0,
+					"z": 0.5
+				},
+				
+				"\u003CQuaternion>k__BackingField": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				}
+			},
+			{
+				"Name": "object_Desert_Star",
+				"Position": {
+					"x": 0.75,
+					"y": 0,
+					"z": -0.75
+				},
+				"Quaternion": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				},
+				
+				"\u003CName>k__BackingField": "object_Desert_Star",
+				
+				"\u003CPosition>k__BackingField": {
+					"x": 0.75,
+					"y": 0,
+					"z": -0.75
+				},
+				
+				"\u003CQuaternion>k__BackingField": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				}
+			},
+			{
+				"Name": "object_Desert_Star",
+				"Position": {
+					"x": -0.5,
+					"y": 0,
+					"z": -0.75
+				},
+				"Quaternion": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				},
+				
+				"\u003CName>k__BackingField": "object_Desert_Star",
+				
+				"\u003CPosition>k__BackingField": {
+					"x": -0.5,
+					"y": 0,
+					"z": -0.75
+				},
+				
+				"\u003CQuaternion>k__BackingField": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				}
+			},
+			{
+				"Name": "object_Desert_Star",
+				"Position": {
+					"x": -0.5,
+					"y": 0,
+					"z": -2
+				},
+				"Quaternion": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				},
+				
+				"\u003CName>k__BackingField": "object_Desert_Star",
+				
+				"\u003CPosition>k__BackingField": {
+					"x": -0.5,
+					"y": 0,
+					"z": -2
+				},
+				
+				"\u003CQuaternion>k__BackingField": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				}
+			},
+			{
+				"Name": "object_Desert_Star",
+				"Position": {
+					"x": 0.75,
+					"y": 0,
+					"z": -2
+				},
+				"Quaternion": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				},
+				
+				"\u003CName>k__BackingField": "object_Desert_Star",
+				
+				"\u003CPosition>k__BackingField": {
+					"x": 0.75,
+					"y": 0,
+					"z": -2
+				},
+				
+				"\u003CQuaternion>k__BackingField": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				}
+			},
+			{
+				"Name": "object_Desert_Star",
+				"Position": {
+					"x": 2,
+					"y": 0,
+					"z": -2
+				},
+				"Quaternion": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				},
+				
+				"\u003CName>k__BackingField": "object_Desert_Star",
+				
+				"\u003CPosition>k__BackingField": {
+					"x": 2,
+					"y": 0,
+					"z": -2
+				},
+				
+				"\u003CQuaternion>k__BackingField": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				}
+			},
+			{
+				"Name": "object_Desert_Star",
+				"Position": {
+					"x": 2,
+					"y": 0,
+					"z": -0.75
+				},
+				"Quaternion": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				},
+				
+				"\u003CName>k__BackingField": "object_Desert_Star",
+				
+				"\u003CPosition>k__BackingField": {
+					"x": 2,
+					"y": 0,
+					"z": -0.75
+				},
+				
+				"\u003CQuaternion>k__BackingField": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				}
+			},
+			{
+				"Name": "object_Desert_Star",
+				"Position": {
+					"x": 2,
+					"y": 0,
+					"z": 0.5
+				},
+				"Quaternion": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				},
+				
+				"\u003CName>k__BackingField": "object_Desert_Star",
+				
+				"\u003CPosition>k__BackingField": {
+					"x": 2,
+					"y": 0,
+					"z": 0.5
+				},
+				
+				"\u003CQuaternion>k__BackingField": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				}
+			},
+			{
+				"Name": "object_Desert_Star",
+				"Position": {
+					"x": 3.25,
+					"y": 0,
+					"z": 0.5
+				},
+				"Quaternion": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				},
+				
+				"\u003CName>k__BackingField": "object_Desert_Star",
+				
+				"\u003CPosition>k__BackingField": {
+					"x": 3.25,
+					"y": 0,
+					"z": 0.5
+				},
+				
+				"\u003CQuaternion>k__BackingField": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				}
+			},
+			{
+				"Name": "object_Desert_Star",
+				"Position": {
+					"x": 3.25,
+					"y": 0,
+					"z": -0.75
+				},
+				"Quaternion": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				},
+				
+				"\u003CName>k__BackingField": "object_Desert_Star",
+				
+				"\u003CPosition>k__BackingField": {
+					"x": 3.25,
+					"y": 0,
+					"z": -0.75
+				},
+				
+				"\u003CQuaternion>k__BackingField": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				}
+			},
+			{
+				"Name": "object_Desert_Star",
+				"Position": {
+					"x": 3.25,
+					"y": 0,
+					"z": -2
+				},
+				"Quaternion": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				},
+				
+				"\u003CName>k__BackingField": "object_Desert_Star",
+				
+				"\u003CPosition>k__BackingField": {
+					"x": 3.25,
+					"y": 0,
+					"z": -2
+				},
+				
+				"\u003CQuaternion>k__BackingField": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				}
+			},
+			{
+				"Name": "object_Desert_Star",
+				"Position": {
+					"x": 3.25,
+					"y": 0,
+					"z": -3.25
+				},
+				"Quaternion": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				},
+				
+				"\u003CName>k__BackingField": "object_Desert_Star",
+				
+				"\u003CPosition>k__BackingField": {
+					"x": 3.25,
+					"y": 0,
+					"z": -3.25
+				},
+				
+				"\u003CQuaternion>k__BackingField": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				}
+			},
+			{
+				"Name": "object_Desert_Star",
+				"Position": {
+					"x": -0.5,
+					"y": 0,
+					"z": -3.25
+				},
+				"Quaternion": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				},
+				
+				"\u003CName>k__BackingField": "object_Desert_Star",
+				
+				"\u003CPosition>k__BackingField": {
+					"x": -0.5,
+					"y": 0,
+					"z": -3.25
+				},
+				
+				"\u003CQuaternion>k__BackingField": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				}
+			},
+			{
+				"Name": "object_Desert_Star",
+				"Position": {
+					"x": 0.75,
+					"y": 0,
+					"z": -3.25
+				},
+				"Quaternion": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				},
+				
+				"\u003CName>k__BackingField": "object_Desert_Star",
+				
+				"\u003CPosition>k__BackingField": {
+					"x": 0.75,
+					"y": 0,
+					"z": -3.25
+				},
+				
+				"\u003CQuaternion>k__BackingField": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				}
+			},
+			{
+				"Name": "object_Desert_Star",
+				"Position": {
+					"x": 2,
+					"y": 0,
+					"z": -3.25
+				},
+				"Quaternion": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				},
+				
+				"\u003CName>k__BackingField": "object_Desert_Star",
+				
+				"\u003CPosition>k__BackingField": {
+					"x": 2,
+					"y": 0,
+					"z": -3.25
+				},
+				
+				"\u003CQuaternion>k__BackingField": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				}
+			},
+			{
+				"Name": "object_Desert_Star",
+				"Position": {
+					"x": 3.25,
+					"y": 0,
+					"z": -4.5
+				},
+				"Quaternion": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				},
+				
+				"\u003CName>k__BackingField": "object_Desert_Star",
+				
+				"\u003CPosition>k__BackingField": {
+					"x": 3.25,
+					"y": 0,
+					"z": -4.5
+				},
+				
+				"\u003CQuaternion>k__BackingField": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				}
+			},
+			{
+				"Name": "object_Desert_Star",
+				"Position": {
+					"x": 2,
+					"y": 0,
+					"z": -4.5
+				},
+				"Quaternion": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				},
+				
+				"\u003CName>k__BackingField": "object_Desert_Star",
+				
+				"\u003CPosition>k__BackingField": {
+					"x": 2,
+					"y": 0,
+					"z": -4.5
+				},
+				
+				"\u003CQuaternion>k__BackingField": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				}
+			},
+			{
+				"Name": "object_Desert_Star",
+				"Position": {
+					"x": 0.75,
+					"y": 0,
+					"z": -4.5
+				},
+				"Quaternion": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				},
+				
+				"\u003CName>k__BackingField": "object_Desert_Star",
+				
+				"\u003CPosition>k__BackingField": {
+					"x": 0.75,
+					"y": 0,
+					"z": -4.5
+				},
+				
+				"\u003CQuaternion>k__BackingField": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				}
+			},
+			{
+				"Name": "object_Desert_Star",
+				"Position": {
+					"x": -0.5,
+					"y": 0,
+					"z": -4.5
+				},
+				"Quaternion": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				},
+				
+				"\u003CName>k__BackingField": "object_Desert_Star",
+				
+				"\u003CPosition>k__BackingField": {
+					"x": -0.5,
+					"y": 0,
+					"z": -4.5
+				},
+				
+				"\u003CQuaternion>k__BackingField": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				}
+			},
+			{
+				"Name": "object_Desert_Star",
+				"Position": {
+					"x": 4.5,
+					"y": 0,
+					"z": -4.5
+				},
+				"Quaternion": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				},
+				
+				"\u003CName>k__BackingField": "object_Desert_Star",
+				
+				"\u003CPosition>k__BackingField": {
+					"x": 4.5,
+					"y": 0,
+					"z": -4.5
+				},
+				
+				"\u003CQuaternion>k__BackingField": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				}
+			},
+			{
+				"Name": "object_Desert_Star",
+				"Position": {
+					"x": 4.5,
+					"y": 0,
+					"z": -3.25
+				},
+				"Quaternion": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				},
+				
+				"\u003CName>k__BackingField": "object_Desert_Star",
+				
+				"\u003CPosition>k__BackingField": {
+					"x": 4.5,
+					"y": 0,
+					"z": -3.25
+				},
+				
+				"\u003CQuaternion>k__BackingField": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				}
+			},
+			{
+				"Name": "object_Desert_Star",
+				"Position": {
+					"x": 4.5,
+					"y": 0,
+					"z": -2
+				},
+				"Quaternion": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				},
+				
+				"\u003CName>k__BackingField": "object_Desert_Star",
+				
+				"\u003CPosition>k__BackingField": {
+					"x": 4.5,
+					"y": 0,
+					"z": -2
+				},
+				
+				"\u003CQuaternion>k__BackingField": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				}
+			},
+			{
+				"Name": "object_Desert_Star",
+				"Position": {
+					"x": 4.5,
+					"y": 0,
+					"z": -0.75
+				},
+				"Quaternion": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				},
+				
+				"\u003CName>k__BackingField": "object_Desert_Star",
+				
+				"\u003CPosition>k__BackingField": {
+					"x": 4.5,
+					"y": 0,
+					"z": -0.75
+				},
+				
+				"\u003CQuaternion>k__BackingField": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				}
+			},
+			{
+				"Name": "object_Desert_Star",
+				"Position": {
+					"x": 4.5,
+					"y": 0,
+					"z": 0.5
+				},
+				"Quaternion": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				},
+				
+				"\u003CName>k__BackingField": "object_Desert_Star",
+				
+				"\u003CPosition>k__BackingField": {
+					"x": 4.5,
+					"y": 0,
+					"z": 0.5
+				},
+				
+				"\u003CQuaternion>k__BackingField": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				}
+			},
+			{
+				"Name": "object_Desert_Star",
+				"Position": {
+					"x": 5.75,
+					"y": 0,
+					"z": 0.5
+				},
+				"Quaternion": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				},
+				
+				"\u003CName>k__BackingField": "object_Desert_Star",
+				
+				"\u003CPosition>k__BackingField": {
+					"x": 5.75,
+					"y": 0,
+					"z": 0.5
+				},
+				
+				"\u003CQuaternion>k__BackingField": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				}
+			},
+			{
+				"Name": "object_Desert_Star",
+				"Position": {
+					"x": 5.75,
+					"y": 0,
+					"z": -0.75
+				},
+				"Quaternion": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				},
+				
+				"\u003CName>k__BackingField": "object_Desert_Star",
+				
+				"\u003CPosition>k__BackingField": {
+					"x": 5.75,
+					"y": 0,
+					"z": -0.75
+				},
+				
+				"\u003CQuaternion>k__BackingField": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				}
+			},
+			{
+				"Name": "object_Desert_Star",
+				"Position": {
+					"x": 5.75,
+					"y": 0,
+					"z": -2
+				},
+				"Quaternion": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				},
+				
+				"\u003CName>k__BackingField": "object_Desert_Star",
+				
+				"\u003CPosition>k__BackingField": {
+					"x": 5.75,
+					"y": 0,
+					"z": -2
+				},
+				
+				"\u003CQuaternion>k__BackingField": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				}
+			},
+			{
+				"Name": "object_Desert_Star",
+				"Position": {
+					"x": 5.75,
+					"y": 0,
+					"z": -3.25
+				},
+				"Quaternion": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				},
+				
+				"\u003CName>k__BackingField": "object_Desert_Star",
+				
+				"\u003CPosition>k__BackingField": {
+					"x": 5.75,
+					"y": 0,
+					"z": -3.25
+				},
+				
+				"\u003CQuaternion>k__BackingField": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				}
+			},
+			{
+				"Name": "object_Desert_Star",
+				"Position": {
+					"x": 5.75,
+					"y": 0,
+					"z": -4.5
+				},
+				"Quaternion": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				},
+				
+				"\u003CName>k__BackingField": "object_Desert_Star",
+				
+				"\u003CPosition>k__BackingField": {
+					"x": 5.75,
+					"y": 0,
+					"z": -4.5
+				},
+				
+				"\u003CQuaternion>k__BackingField": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				}
+			},
+			{
+				"Name": "object_Desert_Star",
+				"Position": {
+					"x": 5.75,
+					"y": 0,
+					"z": -5.75
+				},
+				"Quaternion": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				},
+				
+				"\u003CName>k__BackingField": "object_Desert_Star",
+				
+				"\u003CPosition>k__BackingField": {
+					"x": 5.75,
+					"y": 0,
+					"z": -5.75
+				},
+				
+				"\u003CQuaternion>k__BackingField": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				}
+			},
+			{
+				"Name": "object_Desert_Star",
+				"Position": {
+					"x": 4.5,
+					"y": 0,
+					"z": -5.75
+				},
+				"Quaternion": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				},
+				
+				"\u003CName>k__BackingField": "object_Desert_Star",
+				
+				"\u003CPosition>k__BackingField": {
+					"x": 4.5,
+					"y": 0,
+					"z": -5.75
+				},
+				
+				"\u003CQuaternion>k__BackingField": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				}
+			},
+			{
+				"Name": "object_Desert_Star",
+				"Position": {
+					"x": 3.25,
+					"y": 0,
+					"z": -5.75
+				},
+				"Quaternion": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				},
+				
+				"\u003CName>k__BackingField": "object_Desert_Star",
+				
+				"\u003CPosition>k__BackingField": {
+					"x": 3.25,
+					"y": 0,
+					"z": -5.75
+				},
+				
+				"\u003CQuaternion>k__BackingField": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				}
+			},
+			{
+				"Name": "object_Desert_Star",
+				"Position": {
+					"x": 2,
+					"y": 0,
+					"z": -5.75
+				},
+				"Quaternion": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				},
+				
+				"\u003CName>k__BackingField": "object_Desert_Star",
+				
+				"\u003CPosition>k__BackingField": {
+					"x": 2,
+					"y": 0,
+					"z": -5.75
+				},
+				
+				"\u003CQuaternion>k__BackingField": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				}
+			},
+			{
+				"Name": "object_Desert_Star",
+				"Position": {
+					"x": 0.75,
+					"y": 0,
+					"z": -5.75
+				},
+				"Quaternion": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				},
+				
+				"\u003CName>k__BackingField": "object_Desert_Star",
+				
+				"\u003CPosition>k__BackingField": {
+					"x": 0.75,
+					"y": 0,
+					"z": -5.75
+				},
+				
+				"\u003CQuaternion>k__BackingField": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				}
+			},
+			{
+				"Name": "object_Desert_Star",
+				"Position": {
+					"x": -0.5,
+					"y": 0,
+					"z": -5.75
+				},
+				"Quaternion": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				},
+				
+				"\u003CName>k__BackingField": "object_Desert_Star",
+				
+				"\u003CPosition>k__BackingField": {
+					"x": -0.5,
+					"y": 0,
+					"z": -5.75
+				},
+				
+				"\u003CQuaternion>k__BackingField": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				}
+			},
+			{
+				"Name": "object_Desert_Star",
+				"Position": {
+					"x": 0.75,
+					"y": 0,
+					"z": -7
+				},
+				"Quaternion": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				},
+				
+				"\u003CName>k__BackingField": "object_Desert_Star",
+				
+				"\u003CPosition>k__BackingField": {
+					"x": 0.75,
+					"y": 0,
+					"z": -7
+				},
+				
+				"\u003CQuaternion>k__BackingField": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				}
+			},
+			{
+				"Name": "object_Desert_Star",
+				"Position": {
+					"x": 2,
+					"y": 0,
+					"z": -7
+				},
+				"Quaternion": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				},
+				
+				"\u003CName>k__BackingField": "object_Desert_Star",
+				
+				"\u003CPosition>k__BackingField": {
+					"x": 2,
+					"y": 0,
+					"z": -7
+				},
+				
+				"\u003CQuaternion>k__BackingField": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				}
+			},
+			{
+				"Name": "object_Desert_Star",
+				"Position": {
+					"x": 3.25,
+					"y": 0,
+					"z": -7
+				},
+				"Quaternion": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				},
+				
+				"\u003CName>k__BackingField": "object_Desert_Star",
+				
+				"\u003CPosition>k__BackingField": {
+					"x": 3.25,
+					"y": 0,
+					"z": -7
+				},
+				
+				"\u003CQuaternion>k__BackingField": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				}
+			},
+			{
+				"Name": "object_Desert_Star",
+				"Position": {
+					"x": 4.5,
+					"y": 0,
+					"z": -7
+				},
+				"Quaternion": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				},
+				
+				"\u003CName>k__BackingField": "object_Desert_Star",
+				
+				"\u003CPosition>k__BackingField": {
+					"x": 4.5,
+					"y": 0,
+					"z": -7
+				},
+				
+				"\u003CQuaternion>k__BackingField": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				}
+			},
+			{
+				"Name": "object_Desert_Star",
+				"Position": {
+					"x": 5.75,
+					"y": 0,
+					"z": -7
+				},
+				"Quaternion": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				},
+				
+				"\u003CName>k__BackingField": "object_Desert_Star",
+				
+				"\u003CPosition>k__BackingField": {
+					"x": 5.75,
+					"y": 0,
+					"z": -7
+				},
+				
+				"\u003CQuaternion>k__BackingField": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				}
+			},
+			{
+				"Name": "object_Desert_Star",
+				"Position": {
+					"x": 7,
+					"y": 0,
+					"z": -7
+				},
+				"Quaternion": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				},
+				
+				"\u003CName>k__BackingField": "object_Desert_Star",
+				
+				"\u003CPosition>k__BackingField": {
+					"x": 7,
+					"y": 0,
+					"z": -7
+				},
+				
+				"\u003CQuaternion>k__BackingField": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				}
+			},
+			{
+				"Name": "object_Desert_Star",
+				"Position": {
+					"x": 7,
+					"y": 0,
+					"z": -5.75
+				},
+				"Quaternion": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				},
+				
+				"\u003CName>k__BackingField": "object_Desert_Star",
+				
+				"\u003CPosition>k__BackingField": {
+					"x": 7,
+					"y": 0,
+					"z": -5.75
+				},
+				
+				"\u003CQuaternion>k__BackingField": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				}
+			},
+			{
+				"Name": "object_Desert_Star",
+				"Position": {
+					"x": 7,
+					"y": 0,
+					"z": -4.5
+				},
+				"Quaternion": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				},
+				
+				"\u003CName>k__BackingField": "object_Desert_Star",
+				
+				"\u003CPosition>k__BackingField": {
+					"x": 7,
+					"y": 0,
+					"z": -4.5
+				},
+				
+				"\u003CQuaternion>k__BackingField": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				}
+			},
+			{
+				"Name": "object_Desert_Star",
+				"Position": {
+					"x": 7,
+					"y": 0,
+					"z": -3.25
+				},
+				"Quaternion": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				},
+				
+				"\u003CName>k__BackingField": "object_Desert_Star",
+				
+				"\u003CPosition>k__BackingField": {
+					"x": 7,
+					"y": 0,
+					"z": -3.25
+				},
+				
+				"\u003CQuaternion>k__BackingField": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				}
+			},
+			{
+				"Name": "object_Desert_Star",
+				"Position": {
+					"x": 7,
+					"y": 0,
+					"z": -2
+				},
+				"Quaternion": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				},
+				
+				"\u003CName>k__BackingField": "object_Desert_Star",
+				
+				"\u003CPosition>k__BackingField": {
+					"x": 7,
+					"y": 0,
+					"z": -2
+				},
+				
+				"\u003CQuaternion>k__BackingField": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				}
+			},
+			{
+				"Name": "object_Desert_Star",
+				"Position": {
+					"x": 7,
+					"y": 0,
+					"z": -0.75
+				},
+				"Quaternion": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				},
+				
+				"\u003CName>k__BackingField": "object_Desert_Star",
+				
+				"\u003CPosition>k__BackingField": {
+					"x": 7,
+					"y": 0,
+					"z": -0.75
+				},
+				
+				"\u003CQuaternion>k__BackingField": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				}
+			},
+			{
+				"Name": "object_Desert_Star",
+				"Position": {
+					"x": 7,
+					"y": 0,
+					"z": 0.5
+				},
+				"Quaternion": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				},
+				
+				"\u003CName>k__BackingField": "object_Desert_Star",
+				
+				"\u003CPosition>k__BackingField": {
+					"x": 7,
+					"y": 0,
+					"z": 0.5
+				},
+				
+				"\u003CQuaternion>k__BackingField": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				}
+			},
+			{
+				"Name": "object_Desert_Star",
+				"Position": {
+					"x": 8.25,
+					"y": 0,
+					"z": 0.5
+				},
+				"Quaternion": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				},
+				
+				"\u003CName>k__BackingField": "object_Desert_Star",
+				
+				"\u003CPosition>k__BackingField": {
+					"x": 8.25,
+					"y": 0,
+					"z": 0.5
+				},
+				
+				"\u003CQuaternion>k__BackingField": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				}
+			},
+			{
+				"Name": "object_Desert_Star",
+				"Position": {
+					"x": 8.25,
+					"y": 0,
+					"z": -0.75
+				},
+				"Quaternion": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				},
+				
+				"\u003CName>k__BackingField": "object_Desert_Star",
+				
+				"\u003CPosition>k__BackingField": {
+					"x": 8.25,
+					"y": 0,
+					"z": -0.75
+				},
+				
+				"\u003CQuaternion>k__BackingField": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				}
+			},
+			{
+				"Name": "object_Desert_Star",
+				"Position": {
+					"x": 8.25,
+					"y": 0,
+					"z": -2
+				},
+				"Quaternion": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				},
+				
+				"\u003CName>k__BackingField": "object_Desert_Star",
+				
+				"\u003CPosition>k__BackingField": {
+					"x": 8.25,
+					"y": 0,
+					"z": -2
+				},
+				
+				"\u003CQuaternion>k__BackingField": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				}
+			},
+			{
+				"Name": "object_Desert_Star",
+				"Position": {
+					"x": 8.25,
+					"y": 0,
+					"z": -3.25
+				},
+				"Quaternion": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				},
+				
+				"\u003CName>k__BackingField": "object_Desert_Star",
+				
+				"\u003CPosition>k__BackingField": {
+					"x": 8.25,
+					"y": 0,
+					"z": -3.25
+				},
+				
+				"\u003CQuaternion>k__BackingField": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				}
+			},
+			{
+				"Name": "object_Desert_Star",
+				"Position": {
+					"x": 8.25,
+					"y": 0,
+					"z": -4.5
+				},
+				"Quaternion": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				},
+				
+				"\u003CName>k__BackingField": "object_Desert_Star",
+				
+				"\u003CPosition>k__BackingField": {
+					"x": 8.25,
+					"y": 0,
+					"z": -4.5
+				},
+				
+				"\u003CQuaternion>k__BackingField": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				}
+			},
+			{
+				"Name": "object_Desert_Star",
+				"Position": {
+					"x": 8.25,
+					"y": 0,
+					"z": -5.75
+				},
+				"Quaternion": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				},
+				
+				"\u003CName>k__BackingField": "object_Desert_Star",
+				
+				"\u003CPosition>k__BackingField": {
+					"x": 8.25,
+					"y": 0,
+					"z": -5.75
+				},
+				
+				"\u003CQuaternion>k__BackingField": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				}
+			},
+			{
+				"Name": "object_Desert_Star",
+				"Position": {
+					"x": 8.25,
+					"y": 0,
+					"z": -7
+				},
+				"Quaternion": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				},
+				
+				"\u003CName>k__BackingField": "object_Desert_Star",
+				
+				"\u003CPosition>k__BackingField": {
+					"x": 8.25,
+					"y": 0,
+					"z": -7
+				},
+				
+				"\u003CQuaternion>k__BackingField": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				}
+			},
+			{
+				"Name": "object_Desert_Star",
+				"Position": {
+					"x": -0.5,
+					"y": 0,
+					"z": -7
+				},
+				"Quaternion": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				},
+				
+				"\u003CName>k__BackingField": "object_Desert_Star",
+				
+				"\u003CPosition>k__BackingField": {
+					"x": -0.5,
+					"y": 0,
+					"z": -7
+				},
+				
+				"\u003CQuaternion>k__BackingField": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				}
+			},
+			{
+				"Name": "object_Desert_Star",
+				"Position": {
+					"x": -0.5,
+					"y": 0,
+					"z": -8.25
+				},
+				"Quaternion": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				},
+				
+				"\u003CName>k__BackingField": "object_Desert_Star",
+				
+				"\u003CPosition>k__BackingField": {
+					"x": -0.5,
+					"y": 0,
+					"z": -8.25
+				},
+				
+				"\u003CQuaternion>k__BackingField": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				}
+			},
+			{
+				"Name": "object_Desert_Star",
+				"Position": {
+					"x": 0.75,
+					"y": 0,
+					"z": -8.25
+				},
+				"Quaternion": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				},
+				
+				"\u003CName>k__BackingField": "object_Desert_Star",
+				
+				"\u003CPosition>k__BackingField": {
+					"x": 0.75,
+					"y": 0,
+					"z": -8.25
+				},
+				
+				"\u003CQuaternion>k__BackingField": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				}
+			},
+			{
+				"Name": "object_Desert_Star",
+				"Position": {
+					"x": 2,
+					"y": 0,
+					"z": -8.25
+				},
+				"Quaternion": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				},
+				
+				"\u003CName>k__BackingField": "object_Desert_Star",
+				
+				"\u003CPosition>k__BackingField": {
+					"x": 2,
+					"y": 0,
+					"z": -8.25
+				},
+				
+				"\u003CQuaternion>k__BackingField": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				}
+			},
+			{
+				"Name": "object_Desert_Star",
+				"Position": {
+					"x": 3.25,
+					"y": 0,
+					"z": -8.25
+				},
+				"Quaternion": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				},
+				
+				"\u003CName>k__BackingField": "object_Desert_Star",
+				
+				"\u003CPosition>k__BackingField": {
+					"x": 3.25,
+					"y": 0,
+					"z": -8.25
+				},
+				
+				"\u003CQuaternion>k__BackingField": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				}
+			},
+			{
+				"Name": "object_Desert_Star",
+				"Position": {
+					"x": 4.5,
+					"y": 0,
+					"z": -8.25
+				},
+				"Quaternion": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				},
+				
+				"\u003CName>k__BackingField": "object_Desert_Star",
+				
+				"\u003CPosition>k__BackingField": {
+					"x": 4.5,
+					"y": 0,
+					"z": -8.25
+				},
+				
+				"\u003CQuaternion>k__BackingField": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				}
+			},
+			{
+				"Name": "object_Desert_Star",
+				"Position": {
+					"x": 5.75,
+					"y": 0,
+					"z": -8.25
+				},
+				"Quaternion": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				},
+				
+				"\u003CName>k__BackingField": "object_Desert_Star",
+				
+				"\u003CPosition>k__BackingField": {
+					"x": 5.75,
+					"y": 0,
+					"z": -8.25
+				},
+				
+				"\u003CQuaternion>k__BackingField": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				}
+			},
+			{
+				"Name": "object_Desert_Star",
+				"Position": {
+					"x": 7,
+					"y": 0,
+					"z": -8.25
+				},
+				"Quaternion": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				},
+				
+				"\u003CName>k__BackingField": "object_Desert_Star",
+				
+				"\u003CPosition>k__BackingField": {
+					"x": 7,
+					"y": 0,
+					"z": -8.25
+				},
+				
+				"\u003CQuaternion>k__BackingField": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				}
+			},
+			{
+				"Name": "object_Desert_Star",
+				"Position": {
+					"x": 8.25,
+					"y": 0,
+					"z": -8.25
+				},
+				"Quaternion": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				},
+				
+				"\u003CName>k__BackingField": "object_Desert_Star",
+				
+				"\u003CPosition>k__BackingField": {
+					"x": 8.25,
+					"y": 0,
+					"z": -8.25
+				},
+				
+				"\u003CQuaternion>k__BackingField": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				}
+			},
+			{
+				"Name": "object_Desert_Pollution_L_Pipe01",
+				"Position": {
+					"x": 3.25,
+					"y": 0,
+					"z": -4
+				},
+				"Quaternion": {
+					"x": 0.7071068,
+					"y": 0.7071068,
+					"z": -3.09086232E-08,
+					"w": -3.09086232E-08
+				},
+				
+				"\u003CName>k__BackingField": "object_Desert_Pollution_L_Pipe01",
+				
+				"\u003CPosition>k__BackingField": {
+					"x": 3.25,
+					"y": 0,
+					"z": -4
+				},
+				
+				"\u003CQuaternion>k__BackingField": {
+					"x": 0.7071068,
+					"y": 0.7071068,
+					"z": -3.09086232E-08,
+					"w": -3.09086232E-08
+				}
+			},
+			{
+				"Name": "object_Desert_Pollution_Oasis",
+				"Position": {
+					"x": 3,
+					"y": 0,
+					"z": -3.25
+				},
+				"Quaternion": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				},
+				
+				"\u003CName>k__BackingField": "object_Desert_Pollution_Oasis",
+				
+				"\u003CPosition>k__BackingField": {
+					"x": 3,
+					"y": 0,
+					"z": -3.25
+				},
+				
+				"\u003CQuaternion>k__BackingField": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				}
+			},
+			{
+				"Name": "object_Desert_Monsterleg02",
+				"Position": {
+					"x": 4,
+					"y": 0,
+					"z": -5
+				},
+				"Quaternion": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				},
+				
+				"\u003CName>k__BackingField": "object_Desert_Monsterleg02",
+				
+				"\u003CPosition>k__BackingField": {
+					"x": 4,
+					"y": 0,
+					"z": -5
+				},
+				
+				"\u003CQuaternion>k__BackingField": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				}
+			},
+			{
+				"Name": "object_Desert_Monsterleg01",
+				"Position": {
+					"x": 2.5,
+					"y": 0,
+					"z": -5.25
+				},
+				"Quaternion": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				},
+				
+				"\u003CName>k__BackingField": "object_Desert_Monsterleg01",
+				
+				"\u003CPosition>k__BackingField": {
+					"x": 2.5,
+					"y": 0,
+					"z": -5.25
+				},
+				
+				"\u003CQuaternion>k__BackingField": {
+					"x": -0.7071068,
+					"y": 0,
+					"z": 0,
+					"w": 0.7071068
+				}
+			}
+		],
+	
+	"\u003CLimitedCount>k__BackingField": 
+		[
+			2,
+			3,
+			0
+		],
+	
+	"\u003CCameraPos>k__BackingField": {
+		"x": 15.7038479,
+		"y": 17.1011372,
+		"z": -16.9815617
+	},
+	
+	"\u003CCameraSize>k__BackingField": 2
+}
